@@ -2,12 +2,14 @@
 
 ### Description
 
-Flutter 프로젝트로 만든 간단한 계산기 앱입니다.
+- Flutter 프로젝트로 만든 간단한 계산기 앱입니다.
+<br>
 
 ### Features
 
 - 사칙연산 등 기본 계산기 기능
 - 라이트 모드, 다크 모드 지원
+<br>
 
 ### Screenshots
 
