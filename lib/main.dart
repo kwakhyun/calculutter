@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../bindings/my_bindings.dart';
+import 'bindings/lazy_binding.dart';
 import '../screen/main_screen.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      initialBinding: MyBindings(),
+      initialBinding: LazyBinding(),
       title: "Flutter Calculator",
       home: MainScreen(),
     );
