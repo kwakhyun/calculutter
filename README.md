@@ -1,8 +1,8 @@
-## Flutter Calculator
+## Calculutter
 
 ### Description
 
-- Flutter 프로젝트로 만든 간단한 계산기 앱입니다.
+- Flutter 프로젝트로 만든 계산기 앱입니다.
 <br>
 
 ### Features
